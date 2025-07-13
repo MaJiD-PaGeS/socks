@@ -29,7 +29,7 @@
 | SUBAPI | `subapi.cmliussss.net` | clash、singbox等 订阅转换后端 | 
 | SUBCONFIG | [https://raw.github.../ACL4SSR_Online_Mini.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini) | clash、singbox等 订阅转换配置文件 | 
 | SUBNAME | `Socks订阅生成器` | 订阅生成器名称 | 
-| ICO | `https://raw.cmliussss.com/favicon.ico` | 网站图标 |
+| ICO | `[https://raw.cmliussss.com/favicon.ico](https://raw.githubusercontent.com/MaJiD-PaGeS/socks/refs/heads/main/favicon/favicon.ico)` | 网站图标 |
 | IMG | `https://raw.cmliussss.com/keqing1080p.jpg` | 背景图片，多张图片将随机展示 （多元素`换行`作间隔） | 
 | BEIAN | `提供维护: <a href='https://t.me/CT8cT>CT8cT/a>` | 主页维护信息 | 
 | URL302 | `https://t.me/cT8cT` | 主页302跳转(支持多url, url之间使用`,`或`换行`作间隔, 小白别用) |

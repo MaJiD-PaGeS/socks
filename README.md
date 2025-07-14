@@ -11,7 +11,7 @@
 
 ## 📦 部署方式
 
-- **Workers** 部署：复制 [_worker.js](https://github.com/cmliu/Socks2Vlesssub/blob/main/_worker.js) 代码，`保存并部署`即可
+- **Workers** 部署：复制 [_worker.js](https://raw.githubusercontent.com/MaJiD-PaGeS/socks2/refs/heads/main/_worker.js) 代码，`保存并部署`即可
 - **Pages** 部署：`Fork` 后 `连接GitHub` 一键部署即可
 
 ---
@@ -24,10 +24,10 @@
 ## 🔑 变量说明
 | 变量名 | 示例 | 备注 | 
 |--------|---------|-----|
-| SOCKS5API | `socks5://123:123@64.226.95.45:1080#DE`,[JsonURL](https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.json),[txtURL](https://raw.githubusercontent.com/cmliu/Socks2Vlesssub/refs/heads/main/socks5api.txt) | Socks5 代理，支持 Socks5LINK、JsonURL、txtURL（支持多元素, 元素之间使用`换行`作间隔） |
+| SOCKS5API | `socks5://123:123@64.226.95.45:1080#DE`,[JsonURL](https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.json),[txtURL](https://raw.githubusercontent.com/MaJiD-PaGeS/socks2/refs/heads/main/socks5api.txt) | Socks5 代理，支持 Socks5LINK、JsonURL、txtURL（支持多元素, 元素之间使用`换行`作间隔） |
 | SOCKS5DIY | `false`或`0` | 是否允许用户在前端页面自定义SOCKS5/HTTP代理（默认为`true`） |
 | SUBAPI | `subapi.cmliussss.net` | clash、singbox等 订阅转换后端 | 
-| SUBCONFIG | [https://raw.github.../ACL4SSR_Online_Mini.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini) | clash、singbox等 订阅转换配置文件 | 
+| SUBCONFIG | [https://raw.github.../ACL4SSR_Online_Mini.ini](https://raw.githubusercontent.com/MaJiD-PaGeS/socks2/refs/heads/main/IP/Singbox.ini) | clash、singbox等 订阅转换配置文件 | 
 | SUBNAME | `Socks2VLESS订阅生成器` | 订阅生成器名称 | 
 | ICO | `https://raw.cmliussss.com/favicon.ico` | 网站图标 |
 | IMG | `https://raw.cmliussss.com/keqing1080p.jpg` | 背景图片，多张图片将随机展示 （多元素`换行`作间隔） | 

@@ -24,7 +24,7 @@
 ## 🔑 变量说明
 | 变量名 | 示例 | 备注 | 
 |--------|---------|-----|
-| SOCKS5API | `socks5://123:123@64.226.95.45:1080#DE`,[JsonURL](https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.json),[txtURL]([https://raw.githubusercontent.com/cmliu/Socks2Vlesssub/refs/heads/main/socks5api.txt](https://raw.githubusercontent.com/MaJiD-PaGeS/socks/refs/heads/main/socks5api.txt)) | Socks5 代理，支持 Socks5LINK、JsonURL、txtURL（支持多元素, 元素之间使用`换行`作间隔） |
+| SOCKS5API | `socks5://123:123@64.226.95.45:1080#DE`,[JsonURL](https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.json),[txtURL]([https://raw.githubusercontent.com/MaJiD-PaGeS/socks2/refs/heads/main/socks5api.txt](https://raw.githubusercontent.com/MaJiD-PaGeS/socks/refs/heads/main/socks5api.txt)) | Socks5 代理，支持 Socks5LINK、JsonURL、txtURL（支持多元素, 元素之间使用`换行`作间隔） |
 | SOCKS5DIY | `false`或`0` | 是否允许用户在前端页面自定义SOCKS5/HTTP代理（默认为`true`） |
 | SUBAPI | `subapi.cmliussss.net` | clash、singbox等 订阅转换后端 | 
 | SUBCONFIG | [https://raw.github.../ACL4SSR_Online_Mini.ini]([https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini](https://raw.githubusercontent.com/MaJiD-PaGeS/socks/refs/heads/main/IP/Singbox.ini)) | clash、singbox等 订阅转换配置文件 | 
